@@ -1,4 +1,4 @@
-// Creating a function that returns a license badge based on which license is passed in
+// a function that returns a license badge based on which license is passed in
 
 function renderLicenseBadge(license) {
   if (license === "MIT") {
@@ -551,17 +551,20 @@ function generateMarkdown(data) {
   * [License](#license)
   
   # information
-  ${data.projectInformation}
+  ~ ${data.projectInformation}
   # installation
-  ${data.projectInstallation}
+  ~ ${data.projectInstallation}
   # Usage
-  ${data.projectUsage}
+  ~ ${data.projectUsage}
   # Contributing
-  ${data.projectContributing}
+  ~ ${data.projectContributing}
   # Test 
-  ${data.projectTest}
+  ~ ${data.projectTest}
   # Questions
-  ${data.projectQuestions}
+   ${data.projectQuestions}
+  * Feel free to reach out to my email: ${data.projectEmail}
+  * To see more of my work check out my github! The username is: ${data.Github_Username}
+  * Also click the link to have easy access to the Github! (https://github.com/${data.Github_Username})
   # License
   ${renderLicenseSection(data.Licenses)}
   ${renderLicenseLink(data.Licenses)}

@@ -77,6 +77,26 @@ const questions = [
         }}
     },
     {
+        type: 'input',
+        name: 'projectEmail',
+        message: 'Please include your email address? (Required)',
+        validate: (projectEmailInput) => {
+            if (projectEmailInput) {
+            return true;
+        }else { console.log("Enter an email");
+        }}
+
+    },
+    {
+        type: 'input',
+        name: 'Github_Username',
+        validate: (projectGithubInput) => {
+            if (projectGithubInput) {
+            return true;
+        }else { console.log("Enter your Github username!");
+        }}
+    },
+    {
         type: 'list',
         name: 'Licenses',
         message: 'Choose one of the following licenses for your project',

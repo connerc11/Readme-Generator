@@ -1,5 +1,5 @@
-# h
-   
+# Conners Portfolio
+  ![MIT](https://img.shields.io/badge/License-MIT-blue)
   * [Information](#information)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -9,18 +9,41 @@
   * [License](#license)
   
   # information
-  h
+  ~ Different projects that Conner designed and created
   # installation
-  h
+  ~ I will be able to create projects that will be done through HTMl, CSS, JavaScript and more
   # Usage
-  h
+  ~ The project will be usedful for showing developers my projects
   # Contributing
-  h
+  ~ My knowledge and skillset that I have learned in the bootcamp
   # Test 
-  h
+  ~ Consistently by adding new features throughout the course
   # Questions
-  h
+   Any questions developers have about my skillsets!
+  * Feel free to reach out to my email: cccochrane1@knights.ucf.edu
+  * To see more of my work check out my github! The username is: connerc11
+  * Also click the link to have easy access to the Github! (https://github.com/connerc11)
   # License
    
-  
+  MIT License
+
+    Copyright (c) [year] [fullname]
+    
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+    
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+    
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
   
