@@ -80,7 +80,7 @@ const questions = [
         type: 'list',
         name: 'Licenses',
         message: 'Choose one of the following licenses for your project',
-        choices: ['MIT', 'GPL', 'Apache'],
+        choices: ['MIT', 'GPL', 'Apache', 'None'],
         validate: (projectLicenseInput) => {
             if (projectLicenseInput) {
             return true;
