@@ -9,43 +9,83 @@ const questions = [
     {
         type: 'input',
         name: 'projectTitle',
-        message: 'What is the name of your project? (Required)'
+        message: 'What is the name of your project? (Required)',
+        validate: (projectNameInput) => {
+            if (projectNameInput) {
+            return true;
+        }else { console.log("Enter a project name!");
+        }}
     },
     {
         type: 'input',
         name: 'projectInformation',
-        message: 'What are the sections of the project? (Required)' 
+        message: 'What are the sections of the project? (Required)',
+        validate: (projectInfoInput) => {
+            if (projectInfoInput) {
+            return true;
+        }else { console.log("Enter valid information about the project!");
+        }}
     },
     {
         type: 'input',
         name: 'projectInstallation',
-        message: 'How will the installation of the project go? (Required)' ,
+        message: 'How will the installation of the project go? (Required)',
+        validate: (projectInstallInput) => {
+            if (projectInstallInput) {
+            return true;
+        }else { console.log("Enter a valid reason for installation!");
+        }}
     },
     {
         type: 'input',
         name: 'projectUsage',
         message: "What will be the project be useful for? (Required)",
+        validate: (projectUsageInput) => {
+            if (projectUsageInput) {
+            return true;
+        }else { console.log("Enter a reason for the usage!");
+        }}
     },
     {
         type: 'input',
         name: 'projectContributing',
         message: 'What will be contributing to this project? (Required)',
+        validate: (projectContributingInput) => {
+            if (projectContributingInput) {
+            return true;
+        }else { console.log("Enter a valid contribution");
+        }}
     },
     {
         type: 'input',
         name: 'projectTest',
         message: 'How will the project be tested? (Required)',
+        validate: (projectTestInput) => {
+            if (projectTestInput) {
+            return true;
+        }else { console.log("Enter a valid reason!");
+        }}
     },
     {
         type: 'input',
         name: 'projectQuestions',
         message: 'What questions will this project answer? (Required)',
+        validate: (projectQuestionsInput) => {
+            if (projectQuestionsInput) {
+            return true;
+        }else { console.log("Enter a purpose for the project!");
+        }}
     },
     {
         type: 'list',
         name: 'Licenses',
         message: 'Choose one of the following licenses for your project',
-        choices: ['MIT', 'GPL', 'Apache']
+        choices: ['MIT', 'GPL', 'Apache'],
+        validate: (projectLicenseInput) => {
+            if (projectLicenseInput) {
+            return true;
+        }else { console.log("Please choose a valid license!");
+        }}
     }
     
 ];
@@ -72,6 +112,3 @@ function init() {
 
 // Function call to initialize app
 init();
-const sampArr = [{name: "John", id: 3}, {name: "Jim", id: 4 }, {name: "James", id: 5}]
-const lowerArr = sampArr.filter(person => person.id !== 4)
-console.log(lowerArr)
