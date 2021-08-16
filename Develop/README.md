@@ -1,5 +1,5 @@
-# g
-  ![MIT](https://img.shields.io/badge/License-MIT-blue)
+# READme generator!
+   
   * [Information](#information)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -9,41 +9,21 @@
   * [License](#license)
   
   # information
-  ~ g
+  ~ there is Information, Installation, Usage, Contributing, Test, Questions and License
   # installation
-  ~ g
+  ~ It will be isntalled using node and updated based on quality of information aquired.
   # Usage
-  ~ g
+  ~ The project will be useful for generating readmes for my projects.
   # Contributing
-  ~ g
+  ~ node will be the main contributor and any information needed from the worked on project.
   # Test 
-  ~ gg
+  ~ It will be tested through node and will be developed in the back end!
   # Questions
-   gg
-  * Feel free to reach out to my email: g
-  * To see more of my work check out my github! The username is: g
-  * Also click the link to have easy access to the Github! (https://github.com/g)
+   This will save time and will have a standard format for generating readmes.
+  * Feel free to reach out to my email: hello1234@gmail.com
+  * To see more of my work check out my github! The username is: connerc11
+  * Also click the link to have easy access to the Github! (https://github.com/connerc11)
   # License
    
-  MIT License
-
-    Copyright (c) [year] [fullname]
-    
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
+  
   
