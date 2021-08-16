@@ -10,6 +10,7 @@
   
   # information
   ~ there is Information, Installation, Usage, Contributing, Test, Questions and License
+  ![Get Started](./Develop/utils/image.png)
   # installation
   ~ It will be isntalled using node and updated based on quality of information aquired.
   # Usage
