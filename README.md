@@ -10,7 +10,7 @@
   
   # information
   ~ there is Information, Installation, Usage, Contributing, Test, Questions and License
-  ![Get Started](./utils/image.png)
+  ![Get Started](./assets/images/image.png)
   # installation
   ~ It will be isntalled using node and updated based on quality of information aquired.
   # Usage
