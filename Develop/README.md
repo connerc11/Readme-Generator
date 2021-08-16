@@ -1,4 +1,4 @@
-# Conners Portfolio
+# g
   ![MIT](https://img.shields.io/badge/License-MIT-blue)
   * [Information](#information)
   * [Installation](#installation)
@@ -9,20 +9,20 @@
   * [License](#license)
   
   # information
-  ~ Different projects that Conner designed and created
+  ~ g
   # installation
-  ~ I will be able to create projects that will be done through HTMl, CSS, JavaScript and more
+  ~ g
   # Usage
-  ~ The project will be usedful for showing developers my projects
+  ~ g
   # Contributing
-  ~ My knowledge and skillset that I have learned in the bootcamp
+  ~ g
   # Test 
-  ~ Consistently by adding new features throughout the course
+  ~ gg
   # Questions
-   Any questions developers have about my skillsets!
-  * Feel free to reach out to my email: cccochrane1@knights.ucf.edu
-  * To see more of my work check out my github! The username is: connerc11
-  * Also click the link to have easy access to the Github! (https://github.com/connerc11)
+   gg
+  * Feel free to reach out to my email: g
+  * To see more of my work check out my github! The username is: g
+  * Also click the link to have easy access to the Github! (https://github.com/g)
   # License
    
   MIT License
